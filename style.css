@@ -267,7 +267,7 @@ line-height: 40px;
 
 /*===HOME SECTION ===*/
 .home{
-    background: url('../img/home-bg.jpeg');
+    background: url('home-bg.jpeg');
     background-size: cover;
     background-position: center center;
     height: 100vh;
